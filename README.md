@@ -25,3 +25,19 @@ First try:
 Second try:
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/71130544/205366029-d7adb7b3-3a86-44c8-be9d-5f4c2fa909f6.png">
+
+
+Build Docker image from jar file:
+
+docker build -t primenumbers:latest .
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/71130544/205491518-56cdf2e0-2875-4eb5-a0d9-011e72463e03.png">
+
+Run the docker image:
+
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/71130544/205491545-5b52de8a-6e11-4a4f-a632-2e35954e2c36.png">
+
+Docker Desktop:
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/71130544/205491607-2aabff1a-ac79-4b52-9cb7-c39eeda4ddba.png">
+
